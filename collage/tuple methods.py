@@ -1,0 +1,8 @@
+mytuple=('syam','pawan','rakesh','satwik','syam')
+print(mytuple)
+print(mytuple[0])
+print(mytuple[1])
+print(mytuple[2])
+print(mytuple[3])
+print(mytuple[2:])
+print(print(mytuple[1:3:-1]))

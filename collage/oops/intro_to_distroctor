@@ -1,0 +1,7 @@
+class person:
+    def __init__(self):
+        print("hi")
+    def __del__(self):
+        print("the class is destroed")
+p1=person()
+del p1
