@@ -1,0 +1,23 @@
+# Large data files (>100MB - GitHub limit)
+netflix project/combined_data_1.txt
+data_sets/archive/unlabeledTrainData.tsv
+ai/NLP/bag of words/labeledTrainData.tsv
+data_sets/archive/labeledTrainData.tsv
+ai/NLP/bag of words/testData.tsv
+data_sets/archive/testData.tsv
+credit_score.csv
+
+# General large file types
+*.txt.gz
+*.zip
+*.tar.gz
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db

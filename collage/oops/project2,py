@@ -1,0 +1,14 @@
+class employee:
+    def __init__(self, name):
+        self.name = name
+    def works(self):
+        print("Employee's do the work")
+class manager(employee):
+    def works(self):
+        print(self.name, "managager manages the team")
+class tester(employee):
+    def works(self):
+        print(self.name, "tester tests the code")
+def employee_details(emp):
+    emp.works()
+m=manager('syam')
