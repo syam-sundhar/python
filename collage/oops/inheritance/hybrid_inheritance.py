@@ -14,7 +14,6 @@ class bat(mammal,birds):
     pass
 
 obj=bat()
-
 obj.do_sound()
 obj.make_sound()
 obj.sound()
