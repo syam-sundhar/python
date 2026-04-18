@@ -1,0 +1,7 @@
+f=open("appending.txt",'r')
+print(f.seek(6))
+print(f.readline())
+print(f.tell())
+print(f.read())
+print(f.tell())
+f.close()
