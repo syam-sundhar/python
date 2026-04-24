@@ -1,0 +1,11 @@
+{
+    "DATABASE": {
+        "host": "localhost",
+        "user":"admin",
+        "password":"********"
+    },
+    "SETTINGS":{
+        "debug": true,
+        "port":5500
+    }
+}

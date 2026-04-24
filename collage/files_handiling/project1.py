@@ -5,3 +5,4 @@ f.write(name)
 age=int(input("enter your age: "))
 age="age :"+str(age)+"\n"
 f.write(age)
+f.close()
