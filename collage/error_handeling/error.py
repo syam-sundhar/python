@@ -1,4 +1,4 @@
-# Accessing invalid index
+# Accessing invalid index.
 lst = [1, 2, 3]
 print(lst[5])
 # Assertion fails
