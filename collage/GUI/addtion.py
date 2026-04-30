@@ -30,7 +30,7 @@ add_button=tk.Button(root,text="ADD",command=add)
 add_button.pack()
 
 #result
-result_l=tk.Label(root,text="result: ")
+result_l=tk.Label(root)
 result_l.pack()
 
 root.mainloop()
