@@ -5,7 +5,7 @@ temp=num
 while temp>0:
     digt=temp%10
     sum=sum+(digt**n)
-    temp=temp//10
+    temp=temp//10.0
 if sum==num:
     print("amstrong")
 else:
