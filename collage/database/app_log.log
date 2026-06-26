@@ -1,0 +1,17 @@
+2026-06-26 21:52:47,140 - INFO - user logged in
+2026-06-26 21:52:47,140 - WARNING - someone is trying brout fource!
+2026-06-26 21:52:47,140 - ERROR - server crashed
+2026-06-26 21:52:47,140 - CRITICAL - data is compramised
+2026-06-26 21:53:01,673 - INFO - user logged in
+2026-06-26 21:53:01,674 - WARNING - someone is trying brout fource!
+2026-06-26 21:53:01,674 - ERROR - server crashed
+2026-06-26 21:53:01,674 - CRITICAL - data is compramised
+2026-06-26 21:53:44,542 - INFO - user logged in
+2026-06-26 21:53:44,542 - WARNING - someone is trying brout fource!
+2026-06-26 21:53:44,542 - ERROR - server crashed
+2026-06-26 21:53:44,542 - CRITICAL - data is compramised
+2026-06-26 21:55:56,603 - INFO - user logged in
+2026-06-26 21:55:56,603 - WARNING - someone is trying brout fource!
+2026-06-26 21:55:56,604 - DEBUG - issue is risen by user
+2026-06-26 21:55:56,604 - ERROR - server crashed
+2026-06-26 21:55:56,604 - CRITICAL - data is compramised
